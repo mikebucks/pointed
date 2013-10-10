@@ -5,11 +5,11 @@ A collection of useful and obscure Angular directives.
 
 ## Modules
 
-* Focus
+* Focus -
     Focuses cursor in text input on view render.
 
-* Remaining
+* Remaining -
     Character count on textfield.
 
-* Sticky
+* Sticky -
     Add position: fixed; when element is scrolled to the top of the browser window.
