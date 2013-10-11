@@ -3,7 +3,7 @@
  * @description character count for text field
  */
 
-angular.module('pt.remaining', []).directive('remaining', function () {
+angular.module('pt.remaining', []).directive('ptRemaining', function () {
   return {
     template: "{{remaining}} characters",
     scope: {
