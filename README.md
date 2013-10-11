@@ -16,3 +16,7 @@ angular.module('myApp', ['pt.focus', 'pt.remaining']) // and so on
     Character count on textfield.
 * Sticky -
     Add position: fixed; when element is scrolled to the top of the browser window.
+
+## Roadmap
+* Parallax scroll
+* Swipeable
