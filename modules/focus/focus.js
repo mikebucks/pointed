@@ -4,7 +4,7 @@
     <input type="text" pt-focus />
 
 */
-angular.module('pt.focus').directive('ptFocus', [
+angular.module('pt.focus', []).directive('ptFocus', [
   function() {
     return {
       restrict: 'A',
